@@ -4,7 +4,9 @@
 # loaded once.
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
+require_relative '../grocer.rb'
 
 
-
-
+RSpec.configure do |config|
+  # config here
+end
