@@ -7,6 +7,4 @@
 require_relative '../grocer.rb'
 
 
-RSpec.configure do |config|
-  # config here
-end
+
